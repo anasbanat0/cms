@@ -8,6 +8,7 @@
   <title>Retriving Data From Database</title>
   <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 </head>
+  
 <body>
   <div class="container">
     <?php
