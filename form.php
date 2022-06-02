@@ -1,4 +1,5 @@
 <?php
+
 require 'includes/db.php';
 $name = '';
 $email = '';
