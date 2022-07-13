@@ -23,3 +23,4 @@ if(isset($_POST['submit_form'])){
   $run_sql = mysqli_query($conn, $ins_sql);
 }else {}
 ?>
+
